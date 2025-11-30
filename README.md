@@ -1,2 +1,2 @@
-# modelosmbw
-Este repositorio es el primer proyecto de ciencias de datos
+# Primer proyecto de analitica
+Proyecto con BMW
